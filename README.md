@@ -1,5 +1,7 @@
 # ejemplo
+# ejemplo2
+## ejemplo3
 miscelánea 
 
-#ejemplo 2
+
 nueva linea escrita
