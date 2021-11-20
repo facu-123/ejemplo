@@ -1,7 +1,6 @@
-# ejemplo
-# ejemplo2
-## ejemplo3
-miscelánea 
-
-
-nueva linea escrita
+# Ejemplo de título
+## Ejemplo 2 
+### Ejemplo 3 
+Miscelánea.
+Vieja línea escrita.
+Nueva línea escrita.
