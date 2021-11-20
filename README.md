@@ -1,2 +1,5 @@
 # ejemplo
-miscelánea
+miscelánea 
+
+#ejemplo 2
+nueva linea escrita
